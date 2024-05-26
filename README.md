@@ -5,7 +5,7 @@
 <ol>
   <li>PLayouts com Grid e FlexBox
     <ol>
-        <li>CSS: Construindo layouts com Grid</li>
+        <li>6 CSS: Construindo layouts com Grid</li>
     </ol>
 
   </li>
